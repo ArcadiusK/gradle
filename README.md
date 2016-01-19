@@ -1,2 +1,1 @@
-# gradle build tool testing
-Testing gradle ideas with Android Studio project
+Gradle build tool testing with Android Studio project
