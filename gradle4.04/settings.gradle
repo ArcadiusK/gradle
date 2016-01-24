@@ -1,1 +1,1 @@
-include ':app', ':mylibrary', ':arcandroidlibrary'
+include ':app', ':mylibrary', ':arcandroidlibrary', ':backend'
