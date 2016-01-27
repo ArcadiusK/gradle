@@ -1,1 +1,3 @@
-Gradle build tool testing with Android Studio project
+Android project
+
+With Gradle build system to manage complexity 
