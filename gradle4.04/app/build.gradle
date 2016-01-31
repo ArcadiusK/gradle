@@ -20,7 +20,7 @@ android {
 
     productFlavors {
         free {
-            applicationId "com.example.a.gradle404.free"
+            applicationId "com.example.a.gradle404"
         }
         paid {
             applicationId "com.example.a.gradle.404.paid"
