@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.a.gradle404">
+
+    <application>
+
+    </application>
+
+</manifest>
